@@ -41,37 +41,9 @@
             <h3 class="text-muted">B2Cave</h3>
         </div>
     <div>
-        <h3>Devoirs</h3>
-       
-
-        <h4> Mercredi - 30/11 </h4>
-        <ul>
-            <li><b>Algo</b> : Faire le 1.2 et reflechir au 2.1 </li>
-            <li><b>Anglais T (B2-2)</b> : MOOC (pensez à vérifier que le projo de votre salle marche)</li>
-            <li><b>Anglais C (B2-1)</b> : Je sais pas</li>
-            <li><b>Maths</b> : Ex 11 </li>
-        </ul>
-
-        <h4> Jeudi - 1/12 </h4>
-        <ul>
-           <li><b>Elec</b> : </li>
-           <li><b>Physique</b> : Imprimer le TD + Premier Exo</li>
-        </ul>
-
-        <h4> Vendredi - 2/12 </h4>
-        <ul>
-            <li><b>Anglais T (B2-1)</b> : MOOC (pensez à vérifier que le projo de votre salle marche)</li>
-            <li><b>Anglais C (B2-2)</b> : Je sais pas</li>
-            <li><b>Math</b> :</li>
-        </ul>
-        
-        <h4> Mardi - 6/11 </h4>
-        <ul>
-            <li><b>Algo</b> : </li>
-            <li><b>Archi</b> : Ex 2 - TD7</li>
-            <li><b>TE</b> : Exposés : ?? // noter le capitalisme</li>
-        </ul>
-    </div>
+    <h1>ceci est le contenu d'une page contenant un pdf</h1>
+      <iframe name="lecteurPDF" src="my/yu-gi-gi.pdf"  width="200" height="200"></iframe>
+    </div>      
        <!-- <div class="jumbotron">
             <h1 class="display-3">Jumbotron heading</h1>
             <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
